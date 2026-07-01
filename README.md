@@ -106,7 +106,7 @@ project/
 
 | 檔案 / 資料夾 | 內容 |
 |---|---|
-| `web_shooter/` | 把 DAY5 的 pygame 遊戲移植到瀏覽器：`aiohttp` + WebSocket + HTML5 Canvas。所有人只要瀏覽器打開 `http://<host>:8080/` 就能玩，不用裝 pygame。詳見資料夾內 `README.md` |
+| `web_shooter/` | 把 DAY5 的 pygame 遊戲移植到瀏覽器：`aiohttp` + WebSocket + HTML5 Canvas。所有人只要瀏覽器打開 `http://<host>:8765/` 就能玩，不用裝 pygame。詳見資料夾內 `README.md` |
 
 ---
 

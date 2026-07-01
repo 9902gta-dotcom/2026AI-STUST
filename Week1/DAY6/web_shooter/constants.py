@@ -1,6 +1,6 @@
 # 共用常數（僅 server 用，前端 game.js 有自己的複本）
 
-PORT = 8080
+PORT = 8765
 
 WORLD_W = 2000
 WORLD_H = 2000

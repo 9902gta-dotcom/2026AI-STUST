@@ -23,15 +23,15 @@ pip install aiohttp
 ```bash
 python server.py
 ```
-顯示 `Web server 開啟於 http://0.0.0.0:8080/`。
+顯示 `Web server 開啟於 http://0.0.0.0:8765/`。
 
 **手機、平板、任何電腦** 只要在同網段瀏覽器打開：
 ```
-http://<Server 主機 IP>:8080/
+http://<Server 主機 IP>:8765/
 ```
 就會看到大廳 → 選 ID / 造型 / 顏色 → 按連線 → 開玩。
 
-跨電腦記得放行 Server 主機的 TCP 8080。
+跨電腦記得放行 Server 主機的 TCP 8765。
 
 ## 操作
 | 動作 | 操作 |
